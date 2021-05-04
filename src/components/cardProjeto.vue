@@ -12,7 +12,7 @@
                     <p class="participants">{{propCard.objetivos}}</p>
                   </b-col>
                 </b-col>
-                <!--Teste-->
+                <!--Testesdsdf-->
                  <b-col v-if="propCard.estado == 'revisao'" class="cardInformation" md="8">
                   {{propCard.titulo}}
                   <b-badge class="proposalState ml-2" variant="danger">Para Revisão</b-badge>
